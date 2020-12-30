@@ -1,0 +1,16 @@
+{
+  "name": "009",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx folio --param browserName=chromium"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^0.171.0",
+    "playwright": "^1.7.1"
+  }
+}
